@@ -1,4 +1,5 @@
 # koongo
+a chill way to swipe and scroll on your mac!
 
 ## third-party assets
 hand_landmarker.task is an copy of the model from Google's MediaPipe project, licensed under the Apache License 2.0.
